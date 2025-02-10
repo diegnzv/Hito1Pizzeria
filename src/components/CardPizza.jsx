@@ -1,4 +1,4 @@
-import './CardPizza.css';
+import './CardPizza.css'
 
 const CardPizza = ({ name, price, ingredients, img }) => {
     return (
